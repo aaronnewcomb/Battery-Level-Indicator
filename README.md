@@ -14,7 +14,7 @@ You can also buy more robust charging circuits that are slightly more expensive 
 https://www.adafruit.com/product/2465
 
 # Programming
-Program the Attiny13 with an Arduino Uno
+Program the Attiny13 with an Arduino Uno. I have labeled the pins on the board with the Uno pins they should be connected to.
 
 https://create.arduino.cc/projecthub/taunoerik/programming-attiny13-with-arduino-uno-07beba
 
