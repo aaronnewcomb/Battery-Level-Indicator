@@ -16,9 +16,15 @@ https://www.adafruit.com/product/2465
 You could also use this board as a easy way to program 8 pin Attiny's without having to use a breadboard.
 
 # Programming
-Program the Attiny13 with an Arduino Uno. I have labeled the pins on the board with the Uno pins they should be connected to.
+Program the Attiny13 with an Arduino Uno. 
 
 https://create.arduino.cc/projecthub/taunoerik/programming-attiny13-with-arduino-uno-07beba
+
+Program the Attiny 25,45,85 with an Arduino Uno.
+
+https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829
+
+I have labeled the pins on the board with the Uno pins they should be connected to.
 
 # Usage
 More coming soon
