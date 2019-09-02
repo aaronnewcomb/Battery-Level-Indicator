@@ -31,7 +31,7 @@ void loop() {
 
   // calculate the average:
   average = total / numReadings;
-  if (average < 736) {
+  if (average < 350) { //736
     digitalWrite(4, HIGH);   // turn the LED on (HIGH is the voltage level)
   } else {  
     digitalWrite(4, LOW);    // turn the LED off by making the voltage LOW
