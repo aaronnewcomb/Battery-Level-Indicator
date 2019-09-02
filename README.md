@@ -13,6 +13,8 @@ https://www.ebay.com/itm/Lithium-Li-ion-18650-3-7V-4-2V-Battery-Charger-Board-DC
 You can also buy more robust charging circuits that are slightly more expensive and include a low battery indication like this one from Adafruit.
 https://www.adafruit.com/product/2465
 
+You could also use this board as a easy way to program 8 pin Attiny's without having to use a breadboard.
+
 # Programming
 Program the Attiny13 with an Arduino Uno. I have labeled the pins on the board with the Uno pins they should be connected to.
 
